@@ -2,13 +2,15 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+   </TimelineItems>
+   <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/antondubrovin/Documents/Study/Balls.playground/Pages/Untitled%20Page.xcplaygroundpage#CharacterRangeLen=4&amp;CharacterRangeLoc=96&amp;EndingColumnNumber=9&amp;EndingLineNumber=5&amp;StartingColumnNumber=5&amp;StartingLineNumber=5&amp;Timestamp=695460259.987432"
-         selectedRepresentationIndex = "0">
+         documentLocation = "documentLocation"
+         selectedRepresentationIndex = "selectedRepresentationIndex">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/antondubrovin/Documents/Study/Balls.playground/Pages/Untitled%20Page.xcplaygroundpage#CharacterRangeLen=10&amp;CharacterRangeLoc=47&amp;EndingColumnNumber=15&amp;EndingLineNumber=4&amp;StartingColumnNumber=5&amp;StartingLineNumber=4&amp;Timestamp=695460259.987599"
-         selectedRepresentationIndex = "0">
+         documentLocation = "documentLocation"
+         selectedRepresentationIndex = "selectedRepresentationIndex">
       </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>

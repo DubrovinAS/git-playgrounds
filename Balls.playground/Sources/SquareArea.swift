@@ -67,3 +67,4 @@ public class SquareArea: UIView, SquareAreaProtocol {
     snapBehavior = nil
     }
 }
+
